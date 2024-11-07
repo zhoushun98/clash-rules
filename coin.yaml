@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,mmocoin.vip
   - DOMAIN-SUFFIX,mmocoin.net
   - DOMAIN-SUFFIX,mmocoin.top
+  - DOMAIN-SUFFIX,capvcrypto.com
+  - DOMAIN-SUFFIX,wing-coin.com
   - DOMAIN-SUFFIX,lotradecoin.net
   - DOMAIN-SUFFIX,lotradecoins.com
   - DOMAIN-SUFFIX,vatradecoin.net
@@ -17,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,microtalk.top
   - DOMAIN-SUFFIX,vtxcoin.net
   - DOMAIN-SUFFIX,tvhcoin.net
+  - DOMAIN-SUFFIX,everardburke.com
   - DOMAIN-SUFFIX,bfxcoin.net
   - DOMAIN-SUFFIX,ebuey.com
   - DOMAIN-SUFFIX,coggie.com
@@ -31,6 +34,46 @@ payload:
   - DOMAIN-SUFFIX,abtcoin.top
   - DOMAIN-SUFFIX,stormvaults.com
   - DOMAIN-SUFFIX,stormvaults.org
+  - DOMAIN-SUFFIX,lotradecoin.com
+  - DOMAIN-SUFFIX,vatradecoin.me
+  - DOMAIN-SUFFIX,coinbeco.vip
+  - DOMAIN-SUFFIX,coinbeco.com
+  - DOMAIN-SUFFIX,coinbeco.info
+  - DOMAIN-SUFFIX,hoeecoin.vip
+  - DOMAIN-SUFFIX,hoeecoin.com
+  - DOMAIN-SUFFIX,hoeecoin.info
+  - DOMAIN-SUFFIX,bfxcoin.net
+  - DOMAIN-SUFFIX,vtxcoin.ai
+  - DOMAIN-SUFFIX,tvhcoin.ai
+  - DOMAIN-SUFFIX,everardburke.net
+  - DOMAIN-SUFFIX,bfxcoin.org
+  - DOMAIN-SUFFIX,bfxcoin.io
+  - DOMAIN-SUFFIX,bfxcoin.co
+  - DOMAIN-SUFFIX,bfxcoin.info
+  - DOMAIN-SUFFIX,ebuey.net
+  - DOMAIN-SUFFIX,ebuey.top
+  - DOMAIN-SUFFIX,ebuey.vip
+  - DOMAIN-SUFFIX,coggie.vip
+  - DOMAIN-SUFFIX,coggie.net
+  - DOMAIN-SUFFIX,coggie.top
+  - DOMAIN-SUFFIX,ipye.net
+  - DOMAIN-SUFFIX,ipye.vip
+  - DOMAIN-SUFFIX,ipye.top
+  - DOMAIN-SUFFIX,donkolo.top
+  - DOMAIN-SUFFIX,donkolo.vip
+  - DOMAIN-SUFFIX,donkolo.net
+  - DOMAIN-SUFFIX,coinixiai.net
+  - DOMAIN-SUFFIX,coinixiai.vip
+  - DOMAIN-SUFFIX,bitfii.net
+  - DOMAIN-SUFFIX,bitfii.vip
+  - DOMAIN-SUFFIX,cryptifii.net
+  - DOMAIN-SUFFIX,cryptifii.vip
+  - DOMAIN-SUFFIX,coinfeeai.net
+  - DOMAIN-SUFFIX,coinfeeai.vip
+  - DOMAIN-SUFFIX,finfii.net
+  - DOMAIN-SUFFIX,finfii.vip
+  - DOMAIN-SUFFIX,stormvaults.cyou
+  - DOMAIN-SUFFIX,stormvaults.net
   - DOMAIN-KEYWORD,coin
   - IP-CIDR,8.216.121.188/32
   - IP-CIDR,8.221.138.148/32
